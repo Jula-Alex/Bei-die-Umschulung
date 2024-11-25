@@ -1,1 +1,1 @@
-Quelle: Der Dozent
+Quelle: Dozent
