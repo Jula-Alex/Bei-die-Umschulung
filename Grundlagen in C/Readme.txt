@@ -1,1 +1,2 @@
-Quelle: Dozent -> Buch -> C - Programmieren von Anfang an, rororo
+Quelle: Dozent
+        Script aus der Umschulung
